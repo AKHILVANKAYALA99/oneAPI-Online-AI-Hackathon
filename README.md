@@ -9,7 +9,7 @@ The project addresses the critical issue of predicting water quality, with a spe
 
 ### Proposed Solution:
 
-We propose the development of a Water Quality Predictor utilizing the oneAPI daal4py library. By harnessing the capabilities of Intel® oneAPI, we will construct a Stacking Classifier Model that combines various algorithms such as Random Forest, Naive Bayes, and XGBoost. This ensemble approach will significantly enhance the accuracy of water safety predictions.
+We propose the development of a Water Quality Predictor utilizing the oneAPI daal4py library and sklearnx Patches which are used for optimization of Machine Learning algorithms. By harnessing the capabilities of Intel® oneAPI, we will construct a Random Forest Classifier Model. This approach will significantly enhance the accuracy of water safety predictions.
 
 ### Impact:
 
